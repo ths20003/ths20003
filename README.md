@@ -14,7 +14,7 @@
 [<img align="left" alt="ToyiShimizu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-<h2>[instagram] </h2> : https://www.instagram.com/toyishimizu/
-</h2> [linkedin] </h2>: https://www.linkedin.com/in/toyi-shimizu-ruffner/
+[instagram] : https://www.instagram.com/toyishimizu/
+[linkedin] : https://www.linkedin.com/in/toyi-shimizu-ruffner/
 
 
