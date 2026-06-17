@@ -1,7 +1,8 @@
 <h1>Hi, I'm Toyi!</h1>
 
 <h2>💻 Infrastructure & Homelab Projects</h2>
-- [Active Directory Hybrid Lab](https://github.com/ths20003/AD-Lab)
+
+- <b>[Active Directory Hybrid Lab](https://github.com/ths20003/AD-Lab)</b>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
