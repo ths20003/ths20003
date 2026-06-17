@@ -26,6 +26,6 @@
 
 
 [instagram]: https://www.instagram.com/toyishimizu/
-[linkedin]: [https://www.linkedin.com/in/toyi-shimizu-ruffner/
+[linkedin]: https://www.linkedin.com/in/toyi-shimizu-ruffner/
 
 
