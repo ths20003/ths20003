@@ -1,13 +1,11 @@
 <h1>Hi, I'm Toyi!</h1>
 
 <h2>💻 Infrastructure & Homelab Projects</h2>
-- <b>[Active Directory Hybrid Lab](https://github.com/ths20003/AD-Lab)</b>
+- [Active Directory Hybrid Lab](https://github.com/ths20003/AD-Lab)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>STAC-IT Application</b>
-  - [Planner Application](https://github.com/ths20003/STAC-IT)
-- <b>MilliBTC Website</b>
+  - [STAC-IT Application](https://github.com/ths20003/STAC-IT)
   - [Bitcoin Payments Startup](https://github.com/ths20003/MilliBTC-)
 
 
