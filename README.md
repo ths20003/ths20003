@@ -6,8 +6,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - [STAC-IT Application](https://github.com/ths20003/STAC-IT)
-  - [Bitcoin Payments Startup](https://github.com/ths20003/MilliBTC-)
+  - <b>[STAC-IT Application](https://github.com/ths20003/STAC-IT)</b>
+  - <b>[Bitcoin Payments Startup](https://github.com/ths20003/MilliBTC-)</b>
 
 
 <h2> 🤳 Connect with me:</h2>
